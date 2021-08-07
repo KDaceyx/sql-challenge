@@ -1,0 +1,5 @@
+create table departments(
+    dept_no varchar(10),
+    dept name varchar (30),
+    primary key(dept_no)
+);
